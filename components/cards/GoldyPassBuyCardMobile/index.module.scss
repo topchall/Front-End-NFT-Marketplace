@@ -1,0 +1,56 @@
+.card {
+    background-image: url('/images/panelbg-191.png');
+}
+
+.toppanel {
+    background-image: url('/images/cardtoppanel-172.png');
+    width: 172px;
+    height: 23px;
+}
+
+.price {
+    background-image: url('/images/goldy/price.png');
+    background-size: contain;
+    width: 251px;
+    height: 63px;
+}
+
+.stone {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 0px;
+    background-image: url('/images/Icon_CpBg-34.png');
+    width: 35px;
+    height: 32px;
+}
+
+.buy_button {
+    background-image: url('/images/goldypass/btn-116.png');
+    background-size: contain;
+}
+
+.price_button {
+    background-image: url('/images/goldypass/hexa-55.png');
+    background-size: contain;
+}
+.loadingskeleton {
+    --base-color: #0c4e53 !important;
+    --highlight-color: #126c82 !important;
+
+    --animation-duration: 2s;
+    --animation-direction: normal;
+    --pseudo-element-display: block; /* Enable animation */
+
+    background-color: var(--base-color);
+
+    width: 100%;
+    border-radius: 0.25rem;
+    display: inline-flex;
+    line-height: 1;
+
+    position: relative;
+    overflow: hidden;
+    z-index: 1; /* Necessary for overflow: hidden to work correctly in Safari */
+}

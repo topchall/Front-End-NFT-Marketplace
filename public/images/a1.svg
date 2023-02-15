@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Group_269" data-name="Group 269" transform="translate(-280 -659)">
+    <image id="status_off" data-name="status off" width="64" height="64" transform="translate(280 659)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQyIDc5LjE2MDkyNCwgMjAxNy8wNy8xMy0wMTowNjozOSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDowOEI1NzI5NTE1NjgxMUVDQTUyMEMwMzZCQ0ZCQkQxQyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDowOEI1NzI5NjE1NjgxMUVDQTUyMEMwMzZCQ0ZCQkQxQyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjA4QjU3MjkzMTU2ODExRUNBNTIwQzAzNkJDRkJCRDFDIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjA4QjU3Mjk0MTU2ODExRUNBNTIwQzAzNkJDRkJCRDFDIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+4pBN1wAAAKpJREFUeNrs20sNgDAQBUAWUIIIFOAGPbhBASJwQkoVEJIeCO28e5vspJ/LbqSUupbTd40HAAAAbWcs3WCY108LuI6taH08fYO5uCr+yIwUrkDJFUjn/sviYlo8ggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgzr7rF33RdOwE/TZQOTlY9MuMRBAAAAIDKcwswAAjIGd57LzrSAAAAAElFTkSuQmCC"/>
+    <g id="mineicon" transform="translate(12.25 4)">
+      <g id="mine" transform="translate(288.385 675.559)">
+        <path id="Path_69" data-name="Path 69" d="M421.446,125.82a.817.817,0,0,0,1.1-.365l1.633-3.266a.817.817,0,0,0-1.461-.73l-1.633,3.266A.817.817,0,0,0,421.446,125.82Z" transform="translate(-398.076 -114.42)" fill="#43f3ff"/>
+        <path id="Path_70" data-name="Path 70" d="M214.712,301.09l-3.266,1.633a.817.817,0,0,0,.73,1.461l3.266-1.633a.817.817,0,0,0-.73-1.461Z" transform="translate(-199.508 -284.617)" fill="#43f3ff"/>
+        <path id="Path_71" data-name="Path 71" d="M231.173,69.382a.817.817,0,0,0-1.155,0l-2.887,2.887,2.31,2.31,2.887-2.887a.817.817,0,0,0,0-1.155Z" transform="translate(-214.766 -65.379)" fill="#43f3ff"/>
+        <path id="Path_72" data-name="Path 72" d="M122.775,0a.825.825,0,0,0-.567,1.4l4.33,4.33,2.31-2.31-1.171-1.171A7.662,7.662,0,0,0,122.775,0Z" transform="translate(-115.328 0)" fill="#43f3ff"/>
+        <path id="Path_73" data-name="Path 73" d="M296.505,153.856a7.662,7.662,0,0,0-2.253-4.9l-1.171-1.171-2.31,2.31,4.33,4.33A.825.825,0,0,0,296.505,153.856Z" transform="translate(-274.943 -139.738)" fill="#43f3ff"/>
+        <path id="Path_74" data-name="Path 74" d="M.239,159.909l1.155,1.155a.817.817,0,0,0,1.155,0L13.52,150.093l-2.31-2.31L.239,158.754a.817.817,0,0,0,0,1.155Z" transform="translate(0 -139.738)" fill="#43f3ff"/>
+        <path id="Path_75" data-name="Path 75" d="M407.3,211.078l-3.321,1.633a.817.817,0,0,0-.365.365l-1.092,2.184,5.96-1.181v-2.27a.817.817,0,0,0-1.182-.73Z" transform="translate(-380.612 -199.505)" fill="#43f3ff"/>
+        <path id="Path_76" data-name="Path 76" d="M184,421a.816.816,0,0,0-.679.364l-2.178,3.321a.816.816,0,0,0,.679,1.27H194.3L192.664,421Z" transform="translate(-171.15 -398.081)" fill="#43f3ff"/>
+        <path id="Path_77" data-name="Path 77" d="M326.775,300.341l-1.5,3h4.395a.816.816,0,0,1,.774.558l1.992,6.029h2.188a.817.817,0,0,0,.817-.817V298.3l-8.093,1.608A.817.817,0,0,0,326.775,300.341Z" transform="translate(-307.565 -282.059)" fill="#43f3ff"/>
+      </g>
+      <g id="up-arrow" transform="translate(279.75 673.84)">
+        <g id="Group_254" data-name="Group 254">
+          <path id="Path_78" data-name="Path 78" d="M44.471,5.929,38.629.085a.292.292,0,0,0-.413,0L32.392,5.929a.292.292,0,0,0,.207.5H35.81v7.3a.292.292,0,0,0,.292.292h4.671a.292.292,0,0,0,.292-.292v-7.3h3.2a.292.292,0,0,0,.206-.5Z" transform="translate(-32.307)" fill="#6bff23"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

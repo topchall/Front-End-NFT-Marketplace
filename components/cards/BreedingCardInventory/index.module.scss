@@ -1,0 +1,27 @@
+.card {
+    background-image: url('/images/panelbg_200.png');
+}
+
+.toppanel {
+    background-image: url('/images/cardtoppanel.png');
+    width: 145px;
+    height: 20px;
+}
+
+.price {
+    background-image: url('/images/enhancement/breeding.png');
+    background-size: contain;
+    width: 156px;
+    height: 43px;
+}
+
+.stone {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 0px;
+    background-image: url('/images/Icon_CpBg-34.png');
+    width: 34px;
+    height: 32px;
+}

@@ -1,0 +1,15 @@
+.link{
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+.Footer{
+  background-color: #00090C;
+  color: white;
+  border-color: transparent;
+}
+@media (max-width:425px) {
+  .Footer{
+    display: none !important;
+  } 
+}

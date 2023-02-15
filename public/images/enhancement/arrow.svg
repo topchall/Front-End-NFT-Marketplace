@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="139" height="29" viewBox="0 0 139 29">
+  <g id="arrow" transform="translate(-1114 -270)">
+    <rect id="Rectangle_168" data-name="Rectangle 168" width="139" height="29" transform="translate(1114 270)" fill="#234b54"/>
+    <path id="Path_50" data-name="Path 50" d="M.043,17.177l3.5,4.384a.158.158,0,0,0,.238,0l3.5-4.384a.217.217,0,0,0,.032-.2.2.2,0,0,0-.014-.033.152.152,0,0,0-.134-.08h-7a.152.152,0,0,0-.134.08.2.2,0,0,0-.014.032A.218.218,0,0,0,.043,17.177Z" transform="translate(1234 265.609)" fill="#43f3ff"/>
+    <text id="Grade" transform="translate(1141 289)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-15.926" y="0">Grade</tspan></text>
+  </g>
+</svg>

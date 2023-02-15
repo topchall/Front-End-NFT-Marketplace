@@ -1,0 +1,25 @@
+.GeneratorMain{
+    background-image: url('/images/marketplace/ui/base1.jpg') ;
+    // background-size: cover;
+    background-size: 100% 100% ;
+}
+.customBtn{
+    background-image: url('/images/marketplace/ui/custom.png') ;
+
+}
+@media (min-width:769px) {
+    .randomBtn{
+        background-image: url('/images/marketplace/ui/generate.png') ;
+    }    
+}
+@media (max-width:769px) {
+    .randomBtn{
+        background-image: url('/images/marketplace/ui/generate_231.png') ;
+    }    
+}
+.minimg{
+    background-image: url('/images/marketplace/ui/platform.png') ;
+    width: 1600px ;
+    height: 400px ;
+}
+

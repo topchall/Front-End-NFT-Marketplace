@@ -1,0 +1,35 @@
+.petcard {
+    background-image: url('/images/panelbg_200.png');
+    // filter: brightness(46%);
+}
+
+.toppanel {
+    background-image: url('/images/cardtoppanel.png');
+    width: 145px;
+    height: 20px;
+    color: '#71FFCF'
+}
+
+.claimbutton {
+    background-image: url('/images/goldypet/claim.png');
+    background-size: cover;
+}
+.loadingskeleton {
+    --base-color: #0c4e53 !important;
+    --highlight-color: #126c82 !important;
+
+    --animation-duration: 2s;
+    --animation-direction: normal;
+    --pseudo-element-display: block; /* Enable animation */
+
+    background-color: var(--base-color);
+
+    width: 100%;
+    border-radius: 0.25rem;
+    display: inline-flex;
+    line-height: 1;
+
+    position: relative;
+    overflow: hidden;
+    z-index: 1; /* Necessary for overflow: hidden to work correctly in Safari */
+}
